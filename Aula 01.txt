@@ -1,0 +1,85 @@
+<html>
+ <head>
+	 <style>
+		 #formulario{
+			 widht: 200px;
+			 height: 200px;
+			 background-color: #f67b56;
+		 	 border: 50%;
+		 }
+	 </style>
+  <title>x </title>
+	 <link rel="icon" type="icon" href="https://cdn-icons-png.flaticon.com/512/3305/3305969.png">
+ </head>
+   <body>
+      <h1> Atividades blocos de nota </h1>
+	<div id = "formulario">
+		<form>
+	    	<p>informe seu nome <input type = "name"> </p> <br>
+	    	<p>informe seu emaill <input type ="emaill"> </p> <br>
+ 	  	  <p> ano de Nascimento</p>
+	    	<select>
+           	 <option> 2007 </option>
+	    	 <option> 2006 </option>
+	    	 <option> 2005 </option>
+           	 <option> 2004 </option>
+           	 <option> 2003 </option>
+		 <option> 2002 </option>
+                 <option> 2001 </option>
+                 <option> outro ano </option>
+                </select>
+                 <p>Lista de alunos</p>
+		<ul>
+		   <li>Luan</li>
+		   <li>Pedro</li>
+		   <li>Matheus</li>
+		   <li>Gabriel</li>
+                <ul>
+		</form>
+	</div>
+   </body>
+</html>
+
+
+
+
+<html>
+	<head>
+		 <title> </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+
+<html>
+	<head>
+		 <title>x </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+<html>
+	<head>
+		 <title>x </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+<html>
+	<head>
+		<title>x </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+<html>
+	<head>
+		<title> </title>
+	</head
+	<body>
+	</body>
+</html>
